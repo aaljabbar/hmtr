@@ -1,0 +1,4 @@
+FILE="D:\Projects\CapexTracking\standary admin system\admin_system_standard_CAPTRACK.DMP"
+LOG="D:\Projects\CapexTracking\standary admin system\exp_admin_system_standard_CAPTRACK.log"
+TABLES=('CAPTRACK.ICONS', 'CAPTRACK.LOGS', 'CAPTRACK.MENUS', 'CAPTRACK.MODULES', 'CAPTRACK.PERMISSION_ROLE', 'CAPTRACK.PERMISSIONS', 'CAPTRACK.ROLE_MENU', 'CAPTRACK.ROLE_MODULE', 'CAPTRACK.ROLE_USER', 'CAPTRACK.ROLES', 'CAPTRACK.USERS')
+FEEDBACK=1000

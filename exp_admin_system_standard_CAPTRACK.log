@@ -1,0 +1,29 @@
+
+Connected to: Oracle Database 11g Enterprise Edition Release 11.2.0.4.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+Export done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+
+About to export specified tables via Conventional Path ...
+. . exporting table                          ICONS
+                                                          593 rows exported
+. . exporting table                           LOGS
+                                                          110 rows exported
+. . exporting table                          MENUS
+                                                            5 rows exported
+. . exporting table                        MODULES
+                                                            2 rows exported
+. . exporting table                PERMISSION_ROLE
+                                                           26 rows exported
+. . exporting table                    PERMISSIONS
+                                                           25 rows exported
+. . exporting table                      ROLE_MENU
+                                                            6 rows exported
+. . exporting table                    ROLE_MODULE
+                                                            3 rows exported
+. . exporting table                      ROLE_USER
+                                                            2 rows exported
+. . exporting table                          ROLES
+                                                            2 rows exported
+. . exporting table                          USERS
+                                                            2 rows exported
+Export terminated successfully without warnings.
